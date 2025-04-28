@@ -142,3 +142,4 @@
 (begin
     (map-set registered-assets .stx true) ;; Example: STX is initially registered
     (ok true))
+    
